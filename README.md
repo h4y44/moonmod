@@ -7,7 +7,7 @@
 ##install
 Vim-Plug
 `
-Plug 'lunix4/moonmod'
+Plug 'h4y44/moonmod'
 `
 
 ![screenshot](https://raw.githubusercontent.com/lunix4/moonmod/master/screenshot.png)
