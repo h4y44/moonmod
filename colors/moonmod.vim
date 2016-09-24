@@ -38,7 +38,7 @@ hi MatchParen       ctermbg=237 ctermfg=75  cterm=NONE
 hi Conceal          ctermbg=NONE ctermfg=245  cterm=NONE
 hi SpecialKey       ctermbg=NONE ctermfg=240  cterm=NONE
 hi SignColumn       ctermbg=233  ctermfg=242  cterm=NONE
-hi Folded           ctermbg=NONE ctermfg=88   cterm=NONE
+hi Folded           ctermbg=232  ctermfg=14   cterm=NONE
 hi FoldColumn       ctermbg=NONE ctermfg=88   cterm=NONE
 
 hi Directory        ctermbg=NONE ctermfg=143  cterm=NONE
